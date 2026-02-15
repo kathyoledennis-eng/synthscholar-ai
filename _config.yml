@@ -1,0 +1,11 @@
+title: SynthScholar Academy
+description: Fully autonomous AI skill platform blueprint
+
+theme: jekyll-theme-minimal
+
+minima:
+  skin: auto  # or "dark" or "solarized" for different looks
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
