@@ -2,6 +2,12 @@
 # SynthScholar Academy
 
 An open-source blueprint for a **fully autonomous AI-run online university / skill platform**.
+- Teach hot 2026 skills: Generative AI, Prompt Engineering, Agentic Workflows, Data Analysis with AI.
+- Hyper-personalized learning with 24/7 AI tutors.
+- Freemium model: Free intro modules, cheap subscriptions.
+- Verifiable certificates on blockchain (future).
+-100% open-source and free to run locally.
+  Built as an experiment in fully autonomous AI companies. Fork & improve! Questions? Open an issue.
 
 No humans needed for daily operations. AI agents create courses, teach students, grade work, handle sign-ups, and improve themselves.
 
