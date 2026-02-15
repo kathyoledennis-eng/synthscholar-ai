@@ -1,3 +1,4 @@
+<img src="https://via.placeholder.com/800x400/2A1B4D/00F0FF?text=SynthScholar+Academy" alt="Hero Banner" width="100%">
 # SynthScholar Academy
 
 An open-source blueprint for a **fully autonomous AI-run online university / skill platform**.
